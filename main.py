@@ -9,6 +9,10 @@ al.addSongToAlbum(song1)
 song2 = Song("Beat it", 55 )
 al.addSongToAlbum(song2)
 
+print(al.getTotalLengthInSeconds())
+
+
+
 print(song1.getLengthInSeconds())
 #### a b c e f 
 letter = "t"
